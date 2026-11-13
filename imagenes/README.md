@@ -6,7 +6,7 @@ Organizadas por grupo muscular; una imagen sirve para todas las rutinas en las q
 | Carpeta | Ejercicio | Archivo | Estado |
 |---|---|---|---|
 | pecho | Press inclinado con mancuernas | `pecho/press-inclinado-mancuernas.jpg` | ✅ |
-| pecho | Press inclinado alto con mancuernas | `pecho/press-inclinado-alto-mancuernas.jpg` | ⏳ |
+| pecho | Press inclinado alto con mancuernas | `pecho/press-inclinado-alto-mancuernas.jpg` | ✅ |
 | pecho | Press plano con mancuernas y agarre semineutro | `pecho/press-plano-mancuernas-semineutro.jpg` | ⏳ |
 | pecho | Press convergente de pecho en máquina | `pecho/press-convergente-maquina.jpg` | ⏳ |
 | pecho | Apertura de pecho en polea de abajo hacia arriba | `pecho/apertura-polea-abajo-arriba.jpg` | ⏳ |
