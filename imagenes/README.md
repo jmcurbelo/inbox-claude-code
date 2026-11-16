@@ -45,7 +45,7 @@ Organizadas por grupo muscular; una imagen sirve para todas las rutinas en las q
 | pierna | Elevación de talones de pie | `pierna/elevacion-talones-pie.jpg` | ⏳ |
 | pierna | Máquina de abductores de cadera | `pierna/abductores-maquina.jpg` | ⏳ |
 | pierna | Máquina de aductores de cadera | `pierna/aductores-maquina.jpg` | ⏳ |
-| abdomen | Crunch en polea | `abdomen/crunch-polea.jpg` | ⏳ |
+| abdomen | Crunch en polea | `abdomen/crunch-polea.jpg` | ✅ |
 | abdomen | Crunch inverso | `abdomen/crunch-inverso.jpg` | ⏳ |
 | abdomen | Press Pallof | `abdomen/press-pallof.jpg` | ⏳ |
 
