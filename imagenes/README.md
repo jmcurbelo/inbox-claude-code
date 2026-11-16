@@ -36,7 +36,7 @@ Organizadas por grupo muscular; una imagen sirve para todas las rutinas en las q
 | biceps | Curl martillo con mancuernas | `biceps/curl-martillo.jpg` | ⏳ |
 | biceps | Curl inclinado con mancuernas | `biceps/curl-inclinado-mancuernas.jpg` | ⏳ |
 | biceps | Curl predicador en máquina | `biceps/curl-predicador-maquina.jpg` | ⏳ |
-| pierna | Hack squat | `pierna/hack-squat.jpg` | ⏳ |
+| pierna | Hack squat | `pierna/hack-squat.jpg` | ✅ |
 | pierna | Sentadilla goblet a banco | `pierna/sentadilla-goblet-banco.jpg` | ⏳ |
 | pierna | Peso muerto rumano con mancuernas | `pierna/peso-muerto-rumano-mancuernas.jpg` | ⏳ |
 | pierna | Hip thrust con barra o mancuerna | `pierna/hip-thrust.jpg` | ⏳ |
