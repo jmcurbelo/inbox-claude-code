@@ -22,7 +22,7 @@ Organizadas por grupo muscular; una imagen sirve para todas las rutinas en las q
 | hombros | Apertura inversa en polea | `hombros/apertura-inversa-polea.jpg` | ⏳ |
 | hombros | Encogimientos con mancuernas | `hombros/encogimientos-mancuernas.jpg` | ⏳ |
 | triceps | Extensión de tríceps con cuerda | `triceps/extension-triceps-cuerda.jpg` | ✅ |
-| triceps | Extensión unilateral de tríceps en polea | `triceps/extension-triceps-unilateral-polea.jpg` | ⏳ |
+| triceps | Extensión unilateral de tríceps en polea | `triceps/extension-triceps-unilateral-polea.jpg` | ✅ |
 | triceps | Extensión cruzada de tríceps en polea | `triceps/extension-triceps-cruzada-polea.jpg` | ⏳ |
 | espalda | Jalón al pecho con agarre neutro | `espalda/jalon-pecho-agarre-neutro.jpg` | ⏳ |
 | espalda | Jalón al pecho con agarre pronado medio | `espalda/jalon-pecho-pronado.jpg` | ⏳ |
