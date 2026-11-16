@@ -14,7 +14,7 @@ Organizadas por grupo muscular; una imagen sirve para todas las rutinas en las q
 | hombros | Press de hombros sentado con mancuernas | `hombros/press-hombros-sentado-mancuernas.jpg` | ✅ |
 | hombros | Elevaciones laterales con mancuernas | `hombros/elevacion-lateral-mancuernas.jpg` | ✅ |
 | hombros | Elevación lateral sentada con mancuernas | `hombros/elevacion-lateral-sentada-mancuernas.jpg` | ✅ |
-| hombros | Elevación lateral unilateral en polea | `hombros/elevacion-lateral-unilateral-polea.jpg` | ⏳ |
+| hombros | Elevación lateral unilateral en polea | `hombros/elevacion-lateral-unilateral-polea.jpg` | ✅ |
 | hombros | Rotación externa de hombro | `hombros/rotacion-externa-hombro.jpg` | ⏳ |
 | hombros | Face pull con cuerda | `hombros/face-pull-cuerda.jpg` | ⏳ |
 | hombros | Apertura inversa con pecho apoyado | `hombros/apertura-inversa-pecho-apoyado.jpg` | ⏳ |
